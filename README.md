@@ -17,6 +17,9 @@ Over 40 years, note the magnitude of the change in energy and momentum is quite 
 
 ![Orbit Figure Not Found!](/img/NBodyOrbit40.png)
 
+I included Pluto in the simulation, even though it's not a planet. 
+
 ## Additional Comments
 It's interesting exploring 3-body systems with the gravity simulator. Perturbing unstable equilibria produces chaotic orbits. 
+
 
