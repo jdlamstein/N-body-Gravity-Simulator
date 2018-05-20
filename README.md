@@ -7,6 +7,13 @@ To calculate the trajectories of the planets, I used the Leapfrog integration me
 I probed the solar system to see if it is maximally packed. In simulation, you can add an Earth-sized planet between Mars and Jupiter. Considering the mass of asteroid belt, this makes sense. 
 
 ## Results
-We expect the total energy and total angular momentum to be conserved. The roundoff error of the change in energy and momentum cancels out and nicely oscillates over time. Over 40 years, note the magnitude of the change in energy and momentum is quite low. 
+We expect the total energy and total angular momentum to be conserved. The roundoff error of the change in energy and momentum cancels out and nicely oscillates over time. 
 
+![Energy Figure Not Found!](/img/NBodyOrbit40Energy.png)
+
+![Momentum Figure Not Found!](/img/NBodyOrbit40Momentum.png)
+
+Over 40 years, note the magnitude of the change in energy and momentum is quite low. 
+
+![Orbit Figure Not Found!](/img/NBodyOrbit40.png)
 
